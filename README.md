@@ -10,7 +10,7 @@ The PHP demo code provided in the docs was missing pretty much everything needed
 I updated the code and it should work out-of-the-box.
 
 Create your profiles here: https://ebctest.cybersource.com.
-Note that you need to contact Cybersource to enable the secure acception option for your test account.
+Note that you need to contact Cybersource to enable the secure acceptance option for your test account.
 Once Secure Acceptance has been added to your account, create a profile. The profile will provide the profile_id, access_key, and secret_key required in security.php. Set the customer response page to http://[your_test_domain]/receipt.php
 
 *Warning* The following doc has the wrong endpoints: 
