@@ -11,6 +11,7 @@ I updated the code and it should work out-of-the-box.
 
 Create your profiles here: https://ebctest.cybersource.com.
 Note that you need to contact Cybersource to enable the secure acception option for your test account.
+Once Secure Acceptance has been added to your account, create a profile. The profile will provide the profile_id, access_key, and secret_key required in security.php. Set the customer response page to http://<your_test_domain>/receipt.php
 
 *Warning* The following doc has the wrong endpoints: 
 Docs 1: http://apps.cybersource.com/library/documentation/dev_guides/Secure_Acceptance_WM/html/wwhelp/wwhimpl/js/html/wwhelp.htm#href=create_token.07.1.html
