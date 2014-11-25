@@ -9,4 +9,13 @@ The PHP demo code provided in the docs was missing pretty much everything needed
 
 I updated the code and it should work out-of-the-box.
 
+Create your profiles here: https://ebctest.cybersource.com.
+Note that you need to contact Cybersource to enable the secure acception option for your test account.
+
+*Warning* The following doc has the wrong endpoints: 
+Docs 1: http://apps.cybersource.com/library/documentation/dev_guides/Secure_Acceptance_WM/html/wwhelp/wwhimpl/js/html/wwhelp.htm#href=create_token.07.1.html
+
+*Preferred Docs*
+Docs 2: http://apps.cybersource.com/library/documentation/dev_guides/Secure_Acceptance_WM/Secure_Acceptance_WM.pdf?searchid=1413330942690
+
 Good luck!
